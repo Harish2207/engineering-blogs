@@ -95,7 +95,7 @@
 * Expedia https://medium.com/expedia-group-tech
 
 #### F companies
-* Facebook https://code.facebook.com/posts/
+* Facebook https://engineering.fb.com/
 * Facebook AI Research https://engineering.fb.com/category/ai-research/
 * Feedzai https://medium.com/feedzaitech
 * Findmypast http://tech.findmypast.com/
